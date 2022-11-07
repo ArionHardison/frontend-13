@@ -1,0 +1,604 @@
+[
+  {
+    "name": "about-us-01",
+    "path": "/about-us-01",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/about-us-01.vue",
+    "chunkName": "pages/about-us-01",
+    "_name": "_3fdb9f27"
+  },
+  {
+    "name": "about-us-02",
+    "path": "/about-us-02",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/about-us-02.vue",
+    "chunkName": "pages/about-us-02",
+    "_name": "_3fe9b6a8"
+  },
+  {
+    "name": "about-us-03",
+    "path": "/about-us-03",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/about-us-03.vue",
+    "chunkName": "pages/about-us-03",
+    "_name": "_3ff7ce29"
+  },
+  {
+    "name": "career",
+    "path": "/career",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/career.vue",
+    "chunkName": "pages/career",
+    "_name": "_291a3877"
+  },
+  {
+    "name": "contact-us-modern",
+    "path": "/contact-us-modern",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/contact-us-modern.vue",
+    "chunkName": "pages/contact-us-modern",
+    "_name": "_3b041dd8"
+  },
+  {
+    "name": "contact-us-with-map",
+    "path": "/contact-us-with-map",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/contact-us-with-map.vue",
+    "chunkName": "pages/contact-us-with-map",
+    "_name": "_7d67fb4e"
+  },
+  {
+    "name": "home-authentic-studio",
+    "path": "/home-authentic-studio",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-authentic-studio.vue",
+    "chunkName": "pages/home-authentic-studio",
+    "_name": "_2c10216a"
+  },
+  {
+    "name": "home-blog-grid",
+    "path": "/home-blog-grid",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-blog-grid.vue",
+    "chunkName": "pages/home-blog-grid",
+    "_name": "_251736c8"
+  },
+  {
+    "name": "home-corona",
+    "path": "/home-corona",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-corona.vue",
+    "chunkName": "pages/home-corona",
+    "_name": "_3f5f08a1"
+  },
+  {
+    "name": "home-creative-agency",
+    "path": "/home-creative-agency",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-creative-agency.vue",
+    "chunkName": "pages/home-creative-agency",
+    "_name": "_fe0b4aa4"
+  },
+  {
+    "name": "home-creative-portfolio",
+    "path": "/home-creative-portfolio",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-creative-portfolio.vue",
+    "chunkName": "pages/home-creative-portfolio",
+    "_name": "_35b7e7af"
+  },
+  {
+    "name": "home-design-studio",
+    "path": "/home-design-studio",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-design-studio.vue",
+    "chunkName": "pages/home-design-studio",
+    "_name": "_2f318750"
+  },
+  {
+    "name": "home-digital-agency",
+    "path": "/home-digital-agency",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-digital-agency.vue",
+    "chunkName": "pages/home-digital-agency",
+    "_name": "_135012df"
+  },
+  {
+    "name": "home-essential",
+    "path": "/home-essential",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-essential.vue",
+    "chunkName": "pages/home-essential",
+    "_name": "_5c5a3ed9"
+  },
+  {
+    "name": "home-foodie",
+    "path": "/home-foodie",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-foodie.vue",
+    "chunkName": "pages/home-foodie",
+    "_name": "_d3392702"
+  },
+  {
+    "name": "home-freelancer",
+    "path": "/home-freelancer",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-freelancer.vue",
+    "chunkName": "pages/home-freelancer",
+    "_name": "_35c82908"
+  },
+  {
+    "name": "home-fullscreen-slider-left-vertical-header",
+    "path": "/home-fullscreen-slider-left-vertical-header",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-fullscreen-slider-left-vertical-header.vue",
+    "chunkName": "pages/home-fullscreen-slider-left-vertical-header",
+    "_name": "_71186cdd"
+  },
+  {
+    "name": "home-indie-musician",
+    "path": "/home-indie-musician",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-indie-musician.vue",
+    "chunkName": "pages/home-indie-musician",
+    "_name": "_e8ccc130"
+  },
+  {
+    "name": "home-landing",
+    "path": "/home-landing",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-landing.vue",
+    "chunkName": "pages/home-landing",
+    "_name": "_55084c3c"
+  },
+  {
+    "name": "home-masonry-gallery",
+    "path": "/home-masonry-gallery",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-masonry-gallery.vue",
+    "chunkName": "pages/home-masonry-gallery",
+    "_name": "_394b21d6"
+  },
+  {
+    "name": "home-minimal-agency",
+    "path": "/home-minimal-agency",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-minimal-agency.vue",
+    "chunkName": "pages/home-minimal-agency",
+    "_name": "_0b44d894"
+  },
+  {
+    "name": "home-minimal-metro-grid",
+    "path": "/home-minimal-metro-grid",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-minimal-metro-grid.vue",
+    "chunkName": "pages/home-minimal-metro-grid",
+    "_name": "_6416efaa"
+  },
+  {
+    "name": "home-minimal-portfolio",
+    "path": "/home-minimal-portfolio",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-minimal-portfolio.vue",
+    "chunkName": "pages/home-minimal-portfolio",
+    "_name": "_3761b1a7"
+  },
+  {
+    "name": "home-onepage",
+    "path": "/home-onepage",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-onepage.vue",
+    "chunkName": "pages/home-onepage",
+    "_name": "_1e6a2280"
+  },
+  {
+    "name": "home-photo-slider-gallery",
+    "path": "/home-photo-slider-gallery",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-photo-slider-gallery.vue",
+    "chunkName": "pages/home-photo-slider-gallery",
+    "_name": "_717daba6"
+  },
+  {
+    "name": "home-portfolio-slide",
+    "path": "/home-portfolio-slide",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-portfolio-slide.vue",
+    "chunkName": "pages/home-portfolio-slide",
+    "_name": "_30bf0b37"
+  },
+  {
+    "name": "home-presentation",
+    "path": "/home-presentation",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-presentation.vue",
+    "chunkName": "pages/home-presentation",
+    "_name": "_52a43bdf"
+  },
+  {
+    "name": "home-product-landing",
+    "path": "/home-product-landing",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-product-landing.vue",
+    "chunkName": "pages/home-product-landing",
+    "_name": "_d76331f8"
+  },
+  {
+    "name": "home-restaurant",
+    "path": "/home-restaurant",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-restaurant.vue",
+    "chunkName": "pages/home-restaurant",
+    "_name": "_3004a5c2"
+  },
+  {
+    "name": "home-service",
+    "path": "/home-service",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-service.vue",
+    "chunkName": "pages/home-service",
+    "_name": "_44e7e780"
+  },
+  {
+    "name": "home-start-up",
+    "path": "/home-start-up",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-start-up.vue",
+    "chunkName": "pages/home-start-up",
+    "_name": "_1716d5aa"
+  },
+  {
+    "name": "home-type-hover",
+    "path": "/home-type-hover",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-type-hover.vue",
+    "chunkName": "pages/home-type-hover",
+    "_name": "_a2378524"
+  },
+  {
+    "name": "home-vertical-menu",
+    "path": "/home-vertical-menu",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/home-vertical-menu.vue",
+    "chunkName": "pages/home-vertical-menu",
+    "_name": "_2e645f61"
+  },
+  {
+    "name": "pricing-plans",
+    "path": "/pricing-plans",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/pricing-plans.vue",
+    "chunkName": "pages/pricing-plans",
+    "_name": "_5f21838c"
+  },
+  {
+    "name": "pricing-plans-02",
+    "path": "/pricing-plans-02",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/pricing-plans-02.vue",
+    "chunkName": "pages/pricing-plans-02",
+    "_name": "_11598b25"
+  },
+  {
+    "name": "services-classic",
+    "path": "/services-classic",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/services-classic.vue",
+    "chunkName": "pages/services-classic",
+    "_name": "_670fbf5c"
+  },
+  {
+    "name": "services-list",
+    "path": "/services-list",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/services-list.vue",
+    "chunkName": "pages/services-list",
+    "_name": "_69b9d444"
+  },
+  {
+    "name": "services-modern",
+    "path": "/services-modern",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/services-modern.vue",
+    "chunkName": "pages/services-modern",
+    "_name": "_d778ca76"
+  },
+  {
+    "name": "team-carousel-01",
+    "path": "/team-carousel-01",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/team-carousel-01.vue",
+    "chunkName": "pages/team-carousel-01",
+    "_name": "_509b4452"
+  },
+  {
+    "name": "team-carousel-02",
+    "path": "/team-carousel-02",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/team-carousel-02.vue",
+    "chunkName": "pages/team-carousel-02",
+    "_name": "_507f1550"
+  },
+  {
+    "name": "team-grid",
+    "path": "/team-grid",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/team-grid.vue",
+    "chunkName": "pages/team-grid",
+    "_name": "_31996166"
+  },
+  {
+    "name": "blog-blog-creative",
+    "path": "/blog/blog-creative",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/blog/blog-creative.vue",
+    "chunkName": "pages/blog/blog-creative",
+    "_name": "_50fad1c6"
+  },
+  {
+    "name": "blog-blog-details",
+    "path": "/blog/blog-details",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/blog/blog-details.vue",
+    "chunkName": "pages/blog/blog-details",
+    "_name": "_806d8e0a"
+  },
+  {
+    "name": "blog-blog-details-modern-layout",
+    "path": "/blog/blog-details-modern-layout",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/blog/blog-details-modern-layout.vue",
+    "chunkName": "pages/blog/blog-details-modern-layout",
+    "_name": "_ad75e674"
+  },
+  {
+    "name": "blog-blog-grid-classic",
+    "path": "/blog/blog-grid-classic",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/blog/blog-grid-classic.vue",
+    "chunkName": "pages/blog/blog-grid-classic",
+    "_name": "_7a45bda2"
+  },
+  {
+    "name": "blog-blog-grid-classic-sidebar",
+    "path": "/blog/blog-grid-classic-sidebar",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/blog/blog-grid-classic-sidebar.vue",
+    "chunkName": "pages/blog/blog-grid-classic-sidebar",
+    "_name": "_4f63ba9e"
+  },
+  {
+    "name": "blog-blog-grid-mesonry",
+    "path": "/blog/blog-grid-mesonry",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/blog/blog-grid-mesonry.vue",
+    "chunkName": "pages/blog/blog-grid-mesonry",
+    "_name": "_72903651"
+  },
+  {
+    "name": "blog-blog-grid-minimal",
+    "path": "/blog/blog-grid-minimal",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/blog/blog-grid-minimal.vue",
+    "chunkName": "pages/blog/blog-grid-minimal",
+    "_name": "_c70e199e"
+  },
+  {
+    "name": "blog-blog-grid-minimal-outline",
+    "path": "/blog/blog-grid-minimal-outline",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/blog/blog-grid-minimal-outline.vue",
+    "chunkName": "pages/blog/blog-grid-minimal-outline",
+    "_name": "_507119b4"
+  },
+  {
+    "name": "blog-blog-grid-modern",
+    "path": "/blog/blog-grid-modern",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/blog/blog-grid-modern.vue",
+    "chunkName": "pages/blog/blog-grid-modern",
+    "_name": "_52d1bbbf"
+  },
+  {
+    "name": "blog-blog-grid-simple",
+    "path": "/blog/blog-grid-simple",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/blog/blog-grid-simple.vue",
+    "chunkName": "pages/blog/blog-grid-simple",
+    "_name": "_750300d2"
+  },
+  {
+    "name": "blog-blog-grid-standard",
+    "path": "/blog/blog-grid-standard",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/blog/blog-grid-standard.vue",
+    "chunkName": "pages/blog/blog-grid-standard",
+    "_name": "_6a692e5d"
+  },
+  {
+    "name": "blog-blog-standard-list",
+    "path": "/blog/blog-standard-list",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/blog/blog-standard-list.vue",
+    "chunkName": "pages/blog/blog-standard-list",
+    "_name": "_b90214b2"
+  },
+  {
+    "name": "element-accordion",
+    "path": "/element/accordion",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/element/accordion.vue",
+    "chunkName": "pages/element/accordion",
+    "_name": "_78beea0c"
+  },
+  {
+    "name": "element-brand-logo",
+    "path": "/element/brand-logo",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/element/brand-logo.vue",
+    "chunkName": "pages/element/brand-logo",
+    "_name": "_62634cc6"
+  },
+  {
+    "name": "element-call-to-action-banner",
+    "path": "/element/call-to-action-banner",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/element/call-to-action-banner.vue",
+    "chunkName": "pages/element/call-to-action-banner",
+    "_name": "_6e31f924"
+  },
+  {
+    "name": "element-carousel-slider",
+    "path": "/element/carousel-slider",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/element/carousel-slider.vue",
+    "chunkName": "pages/element/carousel-slider",
+    "_name": "_fbd1729c"
+  },
+  {
+    "name": "element-contact-subscribe",
+    "path": "/element/contact-subscribe",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/element/contact-subscribe.vue",
+    "chunkName": "pages/element/contact-subscribe",
+    "_name": "_1b332221"
+  },
+  {
+    "name": "element-dividers",
+    "path": "/element/dividers",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/element/dividers.vue",
+    "chunkName": "pages/element/dividers",
+    "_name": "_28d16a66"
+  },
+  {
+    "name": "element-flexible-image-slider",
+    "path": "/element/flexible-image-slider",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/element/flexible-image-slider.vue",
+    "chunkName": "pages/element/flexible-image-slider",
+    "_name": "_ff9b56ce"
+  },
+  {
+    "name": "element-gradation",
+    "path": "/element/gradation",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/element/gradation.vue",
+    "chunkName": "pages/element/gradation",
+    "_name": "_7fcfeeab"
+  },
+  {
+    "name": "element-icon-boxes",
+    "path": "/element/icon-boxes",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/element/icon-boxes.vue",
+    "chunkName": "pages/element/icon-boxes",
+    "_name": "_9653065e"
+  },
+  {
+    "name": "element-instagram",
+    "path": "/element/instagram",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/element/instagram.vue",
+    "chunkName": "pages/element/instagram",
+    "_name": "_7871e776"
+  },
+  {
+    "name": "element-lists",
+    "path": "/element/lists",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/element/lists.vue",
+    "chunkName": "pages/element/lists",
+    "_name": "_72cf8fd9"
+  },
+  {
+    "name": "element-message-box",
+    "path": "/element/message-box",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/element/message-box.vue",
+    "chunkName": "pages/element/message-box",
+    "_name": "_1a51ba49"
+  },
+  {
+    "name": "element-pricing-box",
+    "path": "/element/pricing-box",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/element/pricing-box.vue",
+    "chunkName": "pages/element/pricing-box",
+    "_name": "_519f2b08"
+  },
+  {
+    "name": "element-tab",
+    "path": "/element/tab",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/element/tab.vue",
+    "chunkName": "pages/element/tab",
+    "_name": "_0e9d06d9"
+  },
+  {
+    "name": "element-team",
+    "path": "/element/team",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/element/team.vue",
+    "chunkName": "pages/element/team",
+    "_name": "_cb82066e"
+  },
+  {
+    "name": "element-testimonial",
+    "path": "/element/testimonial",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/element/testimonial.vue",
+    "chunkName": "pages/element/testimonial",
+    "_name": "_7c78eae3"
+  },
+  {
+    "name": "portfolio-portfolio-ajax-filter",
+    "path": "/portfolio/portfolio-ajax-filter",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/portfolio/portfolio-ajax-filter.vue",
+    "chunkName": "pages/portfolio/portfolio-ajax-filter",
+    "_name": "_64df0d10"
+  },
+  {
+    "name": "portfolio-portfolio-details",
+    "path": "/portfolio/portfolio-details",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/portfolio/portfolio-details.vue",
+    "chunkName": "pages/portfolio/portfolio-details",
+    "_name": "_1c042a8d"
+  },
+  {
+    "name": "portfolio-portfolio-details-image-with-caption",
+    "path": "/portfolio/portfolio-details-image-with-caption",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/portfolio/portfolio-details-image-with-caption.vue",
+    "chunkName": "pages/portfolio/portfolio-details-image-with-caption",
+    "_name": "_0f72d381"
+  },
+  {
+    "name": "portfolio-portfolio-details-left-wide",
+    "path": "/portfolio/portfolio-details-left-wide",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/portfolio/portfolio-details-left-wide.vue",
+    "chunkName": "pages/portfolio/portfolio-details-left-wide",
+    "_name": "_7a6014ce"
+  },
+  {
+    "name": "portfolio-portfolio-details-right",
+    "path": "/portfolio/portfolio-details-right",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/portfolio/portfolio-details-right.vue",
+    "chunkName": "pages/portfolio/portfolio-details-right",
+    "_name": "_21405548"
+  },
+  {
+    "name": "portfolio-portfolio-details-right-wide",
+    "path": "/portfolio/portfolio-details-right-wide",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/portfolio/portfolio-details-right-wide.vue",
+    "chunkName": "pages/portfolio/portfolio-details-right-wide",
+    "_name": "_45fe3ad4"
+  },
+  {
+    "name": "portfolio-portfolio-grid-boxed",
+    "path": "/portfolio/portfolio-grid-boxed",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/portfolio/portfolio-grid-boxed.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-boxed",
+    "_name": "_13867030"
+  },
+  {
+    "name": "portfolio-portfolio-grid-filter",
+    "path": "/portfolio/portfolio-grid-filter",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/portfolio/portfolio-grid-filter.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-filter",
+    "_name": "_6929202a"
+  },
+  {
+    "name": "portfolio-portfolio-grid-metro-01",
+    "path": "/portfolio/portfolio-grid-metro-01",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/portfolio/portfolio-grid-metro-01.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-metro-01",
+    "_name": "_28af6232"
+  },
+  {
+    "name": "portfolio-portfolio-grid-metro-02",
+    "path": "/portfolio/portfolio-grid-metro-02",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/portfolio/portfolio-grid-metro-02.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-metro-02",
+    "_name": "_28933330"
+  },
+  {
+    "name": "portfolio-portfolio-grid-wide",
+    "path": "/portfolio/portfolio-grid-wide",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/portfolio/portfolio-grid-wide.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-wide",
+    "_name": "_5a14c6f6"
+  },
+  {
+    "name": "portfolio-portfolio-with-caption",
+    "path": "/portfolio/portfolio-with-caption",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/portfolio/portfolio-with-caption.vue",
+    "chunkName": "pages/portfolio/portfolio-with-caption",
+    "_name": "_462517b8"
+  },
+  {
+    "name": "blog-category-slug",
+    "path": "/blog/category/:slug?",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/blog/category/_slug.vue",
+    "chunkName": "pages/blog/category/_slug",
+    "_name": "_0831811d"
+  },
+  {
+    "name": "blog-tag-slug",
+    "path": "/blog/tag/:slug?",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/blog/tag/_slug.vue",
+    "chunkName": "pages/blog/tag/_slug",
+    "_name": "_c1ab0cbe"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug?",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/blog/_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_02d2b054"
+  },
+  {
+    "name": "portfolio-slug",
+    "path": "/portfolio/:slug?",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/portfolio/_slug.vue",
+    "chunkName": "pages/portfolio/_slug",
+    "_name": "_596a60da"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/arionhardison/Desktop/tenant-templates/brook/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3413f62e"
+  }
+]
